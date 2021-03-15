@@ -8,9 +8,9 @@ File:instacart_EDA.ipynb;
 
 It contains:
 
-   1)Introduction to the case study
-   2)metrics choosen to solve the case study
-   3)various exploratory data analysis
+    1) Introduction to the case study
+    2) metrics choosen to solve the case study
+    3) various exploratory data analysis
 
 File:instacart_Feature_Engineering.ipynb;
 
